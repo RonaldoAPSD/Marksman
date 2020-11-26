@@ -1,0 +1,3 @@
+[submodule "Marksman/vendor/spdlog"]
+	path = Marksman/vendor/spdlog
+	url = https://github.com/gabime/spdlog
